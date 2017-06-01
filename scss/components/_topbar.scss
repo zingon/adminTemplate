@@ -1,0 +1,10 @@
+@mixin top_bar {
+    .top-bar {
+      .user {
+        li {
+          margin: rem-calc(0 10);
+        }
+      }
+
+    }
+}
